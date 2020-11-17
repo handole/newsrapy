@@ -1,0 +1,11 @@
+1603959643081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9fh6lL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603959647059	Marionette	INFO	Listening on port 45901
+1603959647178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1603959781174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehOh1mN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603959784023	Marionette	INFO	Listening on port 35771
+1603959784106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603963509191	Marionette	INFO	Stopped listening on port 35771
+1603963517193	Marionette	INFO	Stopped listening on port 45901

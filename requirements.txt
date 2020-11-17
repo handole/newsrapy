@@ -1,0 +1,7 @@
+TikTokApi
+Scrapy
+
+
+# https://gist.github.com/jackbandy/69525e893f7c7efa4389c282e81c9e44
+# https://towardsdatascience.com/how-to-collect-data-from-tiktok-tutorial-ab848b40d191
+# https://github.com/davidteather/TikTok-Api#the-gethashtagobject-method
